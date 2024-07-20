@@ -3,7 +3,7 @@
 Project Title: CustomerSalesReport
 
 <!-- Resized Image -->
-<img src="" alt="My Image" width="200">
+<img src="https://github.com/user-attachments/assets/83cfe2f8-f7a2-4e03-9ba8-bf1423f379b2" alt="My Image" width="600">
 
 
 ## Overview:
